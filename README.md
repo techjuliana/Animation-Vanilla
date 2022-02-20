@@ -12,8 +12,8 @@ Algumas das tecnologias utilizadas foram: JavaScript.
 
 Você pode abrir o website através do link abaixo.
 
-<a href="https://techjuliana.github.io/batman-css/" target="" alt="">Clique aqui</a>
-<!-- `https://techjuliana.github.io/batman-css/` -->
+<a href="https://techjuliana.github.io/EfeitoVanilla/" target="" alt="">Clique aqui</a>
+<!-- `https://techjuliana.github.io/EfeitoVanilla/` -->
 
  
 ## Autor
