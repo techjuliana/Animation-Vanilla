@@ -4,11 +4,11 @@
    Efeito Vanilla
 </h1>
 
-## Technologies
+## Tech
 
-Algumas das tecnologias utilizadas foram: JavaScript.
+JavaScript, css e html
 
-## 🔔 Getting started
+## 🔔 Started
 
 Você pode abrir o website através do link abaixo.
 
@@ -16,8 +16,9 @@ Você pode abrir o website através do link abaixo.
 <!-- `https://techjuliana.github.io/EfeitoVanilla/` -->
 
  
-## Autor
+
 ---
+## Tech Juliana
 
 <a href="https://www.linkedin.com/in/techjuliana">
  <!-- <img style="border-radius: 50%;" src="" width="100px;" alt=""/> -->
