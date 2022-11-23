@@ -1,19 +1,23 @@
 
 
 <h1 align="center">
-   Efeito Vanilla
+ Efeito Vanilla - Um dos meus primeiro projetos :) 
 </h1>
 
-## Tech
+<hr>
 
-JavaScript, css e html
+### Projeto Design ⬇️
+![image](https://raw.githubusercontent.com/techjuliana/API-paises/main/design/Captura%20de%20ecr%C3%A3%202022-11-23%2C%20%C3%A0s%2011.29.32%20AM.png)
+
+
+Algumas das tecnologias utilizadas foram: JavaScript, css e html
 
 ## 🔔 Started
 
-Você pode abrir o website através do link abaixo.
+Você pode abrir o projeto através do link abaixo.
 
-<a href="https://techjuliana.github.io/EfeitoVanilla/" target="" alt="">Clique aqui</a>
-<!-- `https://techjuliana.github.io/EfeitoVanilla/` -->
+<a href="https://animacaotech.netlify.app/" target="" alt="">Clique aqui</a>
+<!-- `https://animacaotech.netlify.app/` -->
 
  
 
@@ -31,7 +35,6 @@ Elaborado por Juliana Bitencourt
 
 
  <div> 
-  <a href = "mailto:techjuliana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/techjuliana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
